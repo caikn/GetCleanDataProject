@@ -1,5 +1,9 @@
 ##Usage of the run_analysis.R 
 
+Here are the data for this project: 
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 All the data files below must be put in the same folder as run_analysis.R:
 
 file name | file content
